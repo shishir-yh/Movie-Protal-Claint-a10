@@ -79,5 +79,4 @@ Movie Portal is a web application designed for movie enthusiasts to explore, rev
 
 ---
 
-**Screenshot:** *(Attach a clean screenshot of the project here)*
 
